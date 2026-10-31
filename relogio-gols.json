@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-10-30T18:38:49.167116+00:00",
+  "fetchedAt": "2026-10-31T03:04:04.139517+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -74,13 +74,19 @@
       "id": 4076848127,
       "name": "Villarreal",
       "sourceId": "102",
-      "completed": 10
+      "completed": 11
     },
     {
       "id": 3626330792,
       "name": "Deportivo A Coruña",
       "sourceId": "90",
       "completed": 10
+    },
+    {
+      "id": 3954215064,
+      "name": "Espanyol",
+      "sourceId": "88",
+      "completed": 11
     },
     {
       "id": 2721363159,
@@ -116,12 +122,6 @@
       "id": 654305354,
       "name": "Getafe",
       "sourceId": "2922",
-      "completed": 10
-    },
-    {
-      "id": 3954215064,
-      "name": "Espanyol",
-      "sourceId": "88",
       "completed": 10
     },
     {
@@ -2806,8 +2806,25 @@
       ],
       "firstScorer": 1563710680,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882817",
+      "date": "2026-10-30T20:00Z",
+      "home": 4076848127,
+      "away": 3954215064,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3954215064,
+          "minute": "60",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 3954215064,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 99,
+  "completedMatches": 100,
   "excluded": []
 }

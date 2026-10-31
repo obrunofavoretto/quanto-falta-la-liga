@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-10-30T18:38:49.167116+00:00",
+  "fetchedAt": "2026-10-31T03:04:04.139517+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -101,9 +101,9 @@
       "id": 4076848127,
       "name": "Villarreal",
       "points": 12,
-      "played": 10,
+      "played": 11,
       "goalsFor": 15,
-      "goalsAgainst": 14,
+      "goalsAgainst": 15,
       "position": 10,
       "sourceId": "102"
     },
@@ -118,13 +118,23 @@
       "sourceId": "90"
     },
     {
+      "id": 3954215064,
+      "name": "Espanyol",
+      "points": 11,
+      "played": 11,
+      "goalsFor": 13,
+      "goalsAgainst": 14,
+      "position": 12,
+      "sourceId": "88"
+    },
+    {
       "id": 2721363159,
       "name": "Osasuna",
       "points": 11,
       "played": 10,
       "goalsFor": 10,
       "goalsAgainst": 20,
-      "position": 12,
+      "position": 13,
       "sourceId": "97"
     },
     {
@@ -134,7 +144,7 @@
       "played": 10,
       "goalsFor": 15,
       "goalsAgainst": 26,
-      "position": 13,
+      "position": 14,
       "sourceId": "87"
     },
     {
@@ -144,7 +154,7 @@
       "played": 10,
       "goalsFor": 16,
       "goalsAgainst": 19,
-      "position": 14,
+      "position": 15,
       "sourceId": "1538"
     },
     {
@@ -154,7 +164,7 @@
       "played": 10,
       "goalsFor": 14,
       "goalsAgainst": 17,
-      "position": 15,
+      "position": 16,
       "sourceId": "3751"
     },
     {
@@ -164,7 +174,7 @@
       "played": 9,
       "goalsFor": 12,
       "goalsAgainst": 20,
-      "position": 16,
+      "position": 17,
       "sourceId": "101"
     },
     {
@@ -174,18 +184,8 @@
       "played": 10,
       "goalsFor": 5,
       "goalsAgainst": 15,
-      "position": 17,
-      "sourceId": "2922"
-    },
-    {
-      "id": 3954215064,
-      "name": "Espanyol",
-      "points": 8,
-      "played": 10,
-      "goalsFor": 12,
-      "goalsAgainst": 14,
       "position": 18,
-      "sourceId": "88"
+      "sourceId": "2922"
     },
     {
       "id": 2259635026,
