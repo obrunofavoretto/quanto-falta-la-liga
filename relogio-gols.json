@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-10-31T09:24:00.020166+00:00",
+  "fetchedAt": "2026-10-31T15:37:57.587486+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -17,15 +17,15 @@
   ],
   "teams": [
     {
-      "id": 418278010,
-      "name": "Barcelona",
-      "sourceId": "83",
-      "completed": 10
-    },
-    {
       "id": 3542330727,
       "name": "Atlético Madrid",
       "sourceId": "1068",
+      "completed": 11
+    },
+    {
+      "id": 418278010,
+      "name": "Barcelona",
+      "sourceId": "83",
       "completed": 10
     },
     {
@@ -101,16 +101,16 @@
       "completed": 10
     },
     {
-      "id": 3587178228,
-      "name": "Levante",
-      "sourceId": "1538",
-      "completed": 10
-    },
-    {
       "id": 1083761366,
       "name": "Elche",
       "sourceId": "3751",
       "completed": 10
+    },
+    {
+      "id": 3587178228,
+      "name": "Levante",
+      "sourceId": "1538",
+      "completed": 11
     },
     {
       "id": 3479518012,
@@ -2823,8 +2823,30 @@
       ],
       "firstScorer": 3954215064,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882820",
+      "date": "2026-10-31T13:00Z",
+      "home": 3587178228,
+      "away": 3542330727,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3542330727,
+          "minute": "36",
+          "bin": 2
+        },
+        {
+          "team": 3542330727,
+          "minute": "62",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3542330727,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 100,
+  "completedMatches": 101,
   "excluded": []
 }

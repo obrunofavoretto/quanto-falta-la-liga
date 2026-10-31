@@ -1,12 +1,22 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-10-31T09:24:00.020166+00:00",
+  "fetchedAt": "2026-10-31T15:37:57.587486+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
   "sourceHistoryUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga?action=history",
   "teams": [
+    {
+      "id": 3542330727,
+      "name": "Atlético Madrid",
+      "points": 28,
+      "played": 11,
+      "goalsFor": 22,
+      "goalsAgainst": 8,
+      "position": 1,
+      "sourceId": "1068"
+    },
     {
       "id": 418278010,
       "name": "Barcelona",
@@ -14,18 +24,8 @@
       "played": 10,
       "goalsFor": 40,
       "goalsAgainst": 11,
-      "position": 1,
-      "sourceId": "83"
-    },
-    {
-      "id": 3542330727,
-      "name": "Atlético Madrid",
-      "points": 25,
-      "played": 10,
-      "goalsFor": 20,
-      "goalsAgainst": 8,
       "position": 2,
-      "sourceId": "1068"
+      "sourceId": "83"
     },
     {
       "id": 2898690600,
@@ -148,24 +148,24 @@
       "sourceId": "87"
     },
     {
-      "id": 3587178228,
-      "name": "Levante",
-      "points": 10,
-      "played": 10,
-      "goalsFor": 16,
-      "goalsAgainst": 19,
-      "position": 15,
-      "sourceId": "1538"
-    },
-    {
       "id": 1083761366,
       "name": "Elche",
       "points": 10,
       "played": 10,
       "goalsFor": 14,
       "goalsAgainst": 17,
-      "position": 16,
+      "position": 15,
       "sourceId": "3751"
+    },
+    {
+      "id": 3587178228,
+      "name": "Levante",
+      "points": 10,
+      "played": 11,
+      "goalsFor": 16,
+      "goalsAgainst": 21,
+      "position": 16,
+      "sourceId": "1538"
     },
     {
       "id": 3479518012,
