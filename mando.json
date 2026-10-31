@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-10-31T15:37:57.587486+00:00",
+  "fetchedAt": "2026-10-31T19:46:33.572672+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -75,13 +75,13 @@
       "id": 3843095170,
       "name": "Real Betis",
       "home": {
-        "played": 5,
-        "points": 12,
-        "wins": 4,
+        "played": 6,
+        "points": 15,
+        "wins": 5,
         "draws": 0,
         "losses": 1,
-        "goalsFor": 10,
-        "goalsAgainst": 7
+        "goalsFor": 12,
+        "goalsAgainst": 8
       },
       "away": {
         "played": 5,
@@ -182,28 +182,6 @@
       }
     },
     {
-      "id": 416150701,
-      "name": "Celta Vigo",
-      "home": {
-        "played": 6,
-        "points": 8,
-        "wins": 2,
-        "draws": 2,
-        "losses": 2,
-        "goalsFor": 9,
-        "goalsAgainst": 6
-      },
-      "away": {
-        "played": 4,
-        "points": 4,
-        "wins": 0,
-        "draws": 4,
-        "losses": 0,
-        "goalsFor": 1,
-        "goalsAgainst": 1
-      }
-    },
-    {
       "id": 4076848127,
       "name": "Villarreal",
       "home": {
@@ -223,6 +201,50 @@
         "losses": 2,
         "goalsFor": 9,
         "goalsAgainst": 8
+      }
+    },
+    {
+      "id": 416150701,
+      "name": "Celta Vigo",
+      "home": {
+        "played": 6,
+        "points": 8,
+        "wins": 2,
+        "draws": 2,
+        "losses": 2,
+        "goalsFor": 9,
+        "goalsAgainst": 6
+      },
+      "away": {
+        "played": 5,
+        "points": 4,
+        "wins": 0,
+        "draws": 4,
+        "losses": 1,
+        "goalsFor": 1,
+        "goalsAgainst": 4
+      }
+    },
+    {
+      "id": 3479518012,
+      "name": "Rayo Vallecano",
+      "home": {
+        "played": 5,
+        "points": 10,
+        "wins": 3,
+        "draws": 1,
+        "losses": 1,
+        "goalsFor": 9,
+        "goalsAgainst": 7
+      },
+      "away": {
+        "played": 5,
+        "points": 2,
+        "wins": 0,
+        "draws": 2,
+        "losses": 3,
+        "goalsFor": 6,
+        "goalsAgainst": 13
       }
     },
     {
@@ -358,28 +380,6 @@
       }
     },
     {
-      "id": 3479518012,
-      "name": "Rayo Vallecano",
-      "home": {
-        "played": 4,
-        "points": 7,
-        "wins": 2,
-        "draws": 1,
-        "losses": 1,
-        "goalsFor": 6,
-        "goalsAgainst": 7
-      },
-      "away": {
-        "played": 5,
-        "points": 2,
-        "wins": 0,
-        "draws": 2,
-        "losses": 3,
-        "goalsFor": 6,
-        "goalsAgainst": 13
-      }
-    },
-    {
       "id": 654305354,
       "name": "Getafe",
       "home": {
@@ -436,13 +436,13 @@
         "goalsAgainst": 10
       },
       "away": {
-        "played": 5,
+        "played": 6,
         "points": 2,
         "wins": 0,
         "draws": 2,
-        "losses": 3,
-        "goalsFor": 2,
-        "goalsAgainst": 9
+        "losses": 4,
+        "goalsFor": 3,
+        "goalsAgainst": 11
       }
     }
   ]

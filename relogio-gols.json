@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-10-31T15:37:57.587486+00:00",
+  "fetchedAt": "2026-10-31T19:46:33.572672+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -38,7 +38,7 @@
       "id": 3843095170,
       "name": "Real Betis",
       "sourceId": "244",
-      "completed": 10
+      "completed": 11
     },
     {
       "id": 3895707530,
@@ -65,16 +65,22 @@
       "completed": 9
     },
     {
-      "id": 416150701,
-      "name": "Celta Vigo",
-      "sourceId": "85",
-      "completed": 10
-    },
-    {
       "id": 4076848127,
       "name": "Villarreal",
       "sourceId": "102",
       "completed": 11
+    },
+    {
+      "id": 416150701,
+      "name": "Celta Vigo",
+      "sourceId": "85",
+      "completed": 11
+    },
+    {
+      "id": 3479518012,
+      "name": "Rayo Vallecano",
+      "sourceId": "101",
+      "completed": 10
     },
     {
       "id": 3626330792,
@@ -113,12 +119,6 @@
       "completed": 11
     },
     {
-      "id": 3479518012,
-      "name": "Rayo Vallecano",
-      "sourceId": "101",
-      "completed": 9
-    },
-    {
       "id": 654305354,
       "name": "Getafe",
       "sourceId": "2922",
@@ -134,7 +134,7 @@
       "id": 1801350210,
       "name": "Málaga",
       "sourceId": "99",
-      "completed": 10
+      "completed": 11
     }
   ],
   "matches": [
@@ -2845,8 +2845,62 @@
       ],
       "firstScorer": 3542330727,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882818",
+      "date": "2026-10-31T15:15Z",
+      "home": 3479518012,
+      "away": 416150701,
+      "hg": 3,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 3479518012,
+          "minute": "36",
+          "bin": 2
+        },
+        {
+          "team": 3479518012,
+          "minute": "55",
+          "bin": 4
+        },
+        {
+          "team": 3479518012,
+          "minute": "73",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3479518012,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882825",
+      "date": "2026-10-31T17:30Z",
+      "home": 3843095170,
+      "away": 1801350210,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3843095170,
+          "minute": "38",
+          "bin": 2
+        },
+        {
+          "team": 3843095170,
+          "minute": "45+2",
+          "bin": 3
+        },
+        {
+          "team": 1801350210,
+          "minute": "68",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3843095170,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 101,
+  "completedMatches": 103,
   "excluded": []
 }
