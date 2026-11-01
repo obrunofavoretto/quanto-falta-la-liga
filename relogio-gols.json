@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-01T17:45:38.047778+00:00",
+  "fetchedAt": "2026-11-01T21:49:11.929454+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -116,7 +116,7 @@
       "id": 1083761366,
       "name": "Elche",
       "sourceId": "3751",
-      "completed": 10
+      "completed": 11
     },
     {
       "id": 3587178228,
@@ -128,7 +128,7 @@
       "id": 2259635026,
       "name": "Valencia",
       "sourceId": "94",
-      "completed": 10
+      "completed": 11
     },
     {
       "id": 1801350210,
@@ -3005,8 +3005,25 @@
       ],
       "firstScorer": 2898690600,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882823",
+      "date": "2026-11-01T17:30Z",
+      "home": 1083761366,
+      "away": 2259635026,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2259635026,
+          "minute": "69",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2259635026,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 106,
+  "completedMatches": 107,
   "excluded": []
 }

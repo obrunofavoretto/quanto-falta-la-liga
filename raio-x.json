@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-01T17:45:38.047778+00:00",
+  "fetchedAt": "2026-11-01T21:49:11.929454+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -2301,11 +2301,24 @@
       "id": 1083761366,
       "name": "Elche",
       "points": 10,
-      "played": 10,
+      "played": 11,
       "goalsFor": 14,
-      "goalsAgainst": 17,
+      "goalsAgainst": 18,
       "position": 17,
       "recent": [
+        {
+          "id": "401882823",
+          "date": 1793554200000,
+          "home": "Elche",
+          "away": "Valencia",
+          "hg": 0,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Valencia",
+          "venue": "Casa",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401882830",
           "date": 1792843200000,
@@ -2422,23 +2435,10 @@
           "venue": "Casa",
           "score": "0–5",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882923",
-          "date": 1786993200000,
-          "home": "Deportivo A Coruña",
-          "away": "Elche",
-          "hg": 1,
-          "ag": 1,
-          "points": 1,
-          "opponent": "Deportivo A Coruña",
-          "venue": "Fora",
-          "score": "1–1",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401882830",
-      "lastMatchDate": 1792843200000,
+      "lastMatchId": "401882823",
+      "lastMatchDate": 1793554200000,
       "sourceId": "3751"
     },
     {
@@ -2588,12 +2588,25 @@
     {
       "id": 2259635026,
       "name": "Valencia",
-      "points": 6,
-      "played": 10,
-      "goalsFor": 7,
+      "points": 9,
+      "played": 11,
+      "goalsFor": 8,
       "goalsAgainst": 17,
       "position": 19,
       "recent": [
+        {
+          "id": "401882823",
+          "date": 1793554200000,
+          "home": "Elche",
+          "away": "Valencia",
+          "hg": 0,
+          "ag": 1,
+          "points": 3,
+          "opponent": "Elche",
+          "venue": "Fora",
+          "score": "1–0",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401882827",
           "date": 1792859400000,
@@ -2710,23 +2723,10 @@
           "venue": "Casa",
           "score": "0–1",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882907",
-          "date": 1787419800000,
-          "home": "Valencia",
-          "away": "Celta Vigo",
-          "hg": 0,
-          "ag": 0,
-          "points": 1,
-          "opponent": "Celta Vigo",
-          "venue": "Casa",
-          "score": "0–0",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401882827",
-      "lastMatchDate": 1792859400000,
+      "lastMatchId": "401882823",
+      "lastMatchDate": 1793554200000,
       "sourceId": "94"
     },
     {
@@ -3559,9 +3559,9 @@
       "id": "3327815286-3895707530",
       "home": 3327815286,
       "away": 3895707530,
-      "date": 1793563200000,
+      "date": null,
       "round": "Rodada a confirmar",
-      "status": "scheduled"
+      "status": "pending"
     },
     {
       "id": "3327815286-4076848127",
@@ -4719,14 +4719,6 @@
       "id": "1083761366-3587178228",
       "home": 1083761366,
       "away": 3587178228,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "1083761366-2259635026",
-      "home": 1083761366,
-      "away": 2259635026,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"

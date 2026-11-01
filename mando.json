@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-01T17:45:38.047778+00:00",
+  "fetchedAt": "2026-11-01T21:49:11.929454+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -361,13 +361,13 @@
       "id": 1083761366,
       "name": "Elche",
       "home": {
-        "played": 4,
+        "played": 5,
         "points": 1,
         "wins": 0,
         "draws": 1,
-        "losses": 3,
+        "losses": 4,
         "goalsFor": 4,
-        "goalsAgainst": 11
+        "goalsAgainst": 12
       },
       "away": {
         "played": 6,
@@ -414,12 +414,12 @@
         "goalsAgainst": 11
       },
       "away": {
-        "played": 4,
-        "points": 4,
-        "wins": 1,
+        "played": 5,
+        "points": 7,
+        "wins": 2,
         "draws": 1,
         "losses": 2,
-        "goalsFor": 4,
+        "goalsFor": 5,
         "goalsAgainst": 6
       }
     },
