@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-01T21:49:11.929454+00:00",
+  "fetchedAt": "2026-11-02T01:21:14.942132+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -106,13 +106,13 @@
         "goalsAgainst": 7
       },
       "away": {
-        "played": 5,
+        "played": 6,
         "points": 9,
         "wins": 3,
         "draws": 0,
-        "losses": 2,
-        "goalsFor": 12,
-        "goalsAgainst": 11
+        "losses": 3,
+        "goalsFor": 13,
+        "goalsAgainst": 13
       }
     },
     {
@@ -141,13 +141,13 @@
       "id": 3327815286,
       "name": "Athletic Bilbao",
       "home": {
-        "played": 5,
-        "points": 8,
-        "wins": 2,
+        "played": 6,
+        "points": 11,
+        "wins": 3,
         "draws": 2,
         "losses": 1,
-        "goalsFor": 9,
-        "goalsAgainst": 4
+        "goalsFor": 11,
+        "goalsAgainst": 5
       },
       "away": {
         "played": 4,

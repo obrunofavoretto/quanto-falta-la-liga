@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-01T21:49:11.929454+00:00",
+  "fetchedAt": "2026-11-02T01:21:14.942132+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -586,11 +586,24 @@
       "id": 3895707530,
       "name": "Real Sociedad",
       "points": 19,
-      "played": 10,
-      "goalsFor": 19,
-      "goalsAgainst": 18,
+      "played": 11,
+      "goalsFor": 20,
+      "goalsAgainst": 20,
       "position": 5,
       "recent": [
+        {
+          "id": "401882826",
+          "date": 1793563200000,
+          "home": "Athletic Bilbao",
+          "away": "Real Sociedad",
+          "hg": 2,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Athletic Bilbao",
+          "venue": "Fora",
+          "score": "1–2",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401882829",
           "date": 1792949400000,
@@ -707,23 +720,10 @@
           "venue": "Fora",
           "score": "1–4",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882914",
-          "date": 1787338800000,
-          "home": "Real Betis",
-          "away": "Real Sociedad",
-          "hg": 1,
-          "ag": 0,
-          "points": 0,
-          "opponent": "Real Betis",
-          "venue": "Fora",
-          "score": "0–1",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401882829",
-      "lastMatchDate": 1792949400000,
+      "lastMatchId": "401882826",
+      "lastMatchDate": 1793563200000,
       "sourceId": "89"
     },
     {
@@ -873,12 +873,25 @@
     {
       "id": 3327815286,
       "name": "Athletic Bilbao",
-      "points": 12,
-      "played": 9,
-      "goalsFor": 12,
-      "goalsAgainst": 9,
+      "points": 15,
+      "played": 10,
+      "goalsFor": 14,
+      "goalsAgainst": 10,
       "position": 7,
       "recent": [
+        {
+          "id": "401882826",
+          "date": 1793563200000,
+          "home": "Athletic Bilbao",
+          "away": "Real Sociedad",
+          "hg": 2,
+          "ag": 1,
+          "points": 3,
+          "opponent": "Real Sociedad",
+          "venue": "Casa",
+          "score": "2–1",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401882835",
           "date": 1792933200000,
@@ -997,8 +1010,8 @@
           "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401882835",
-      "lastMatchDate": 1792933200000,
+      "lastMatchId": "401882826",
+      "lastMatchDate": 1793563200000,
       "sourceId": "93"
     },
     {

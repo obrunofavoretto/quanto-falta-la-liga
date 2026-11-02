@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-01T21:49:11.929454+00:00",
+  "fetchedAt": "2026-11-02T01:21:14.942132+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -51,9 +51,9 @@
       "id": 3895707530,
       "name": "Real Sociedad",
       "points": 19,
-      "played": 10,
-      "goalsFor": 19,
-      "goalsAgainst": 18,
+      "played": 11,
+      "goalsFor": 20,
+      "goalsAgainst": 20,
       "position": 5,
       "sourceId": "89"
     },
@@ -70,10 +70,10 @@
     {
       "id": 3327815286,
       "name": "Athletic Bilbao",
-      "points": 12,
-      "played": 9,
-      "goalsFor": 12,
-      "goalsAgainst": 9,
+      "points": 15,
+      "played": 10,
+      "goalsFor": 14,
+      "goalsAgainst": 10,
       "position": 7,
       "sourceId": "93"
     },
