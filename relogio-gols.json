@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-02T19:24:35.018307+00:00",
+  "fetchedAt": "2026-11-03T02:04:35.156508+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -59,6 +59,12 @@
       "completed": 10
     },
     {
+      "id": 3626330792,
+      "name": "Deportivo A Coruña",
+      "sourceId": "90",
+      "completed": 11
+    },
+    {
       "id": 4076848127,
       "name": "Villarreal",
       "sourceId": "102",
@@ -89,12 +95,6 @@
       "completed": 11
     },
     {
-      "id": 3626330792,
-      "name": "Deportivo A Coruña",
-      "sourceId": "90",
-      "completed": 10
-    },
-    {
       "id": 3954215064,
       "name": "Espanyol",
       "sourceId": "88",
@@ -104,7 +104,7 @@
       "id": 2721363159,
       "name": "Osasuna",
       "sourceId": "97",
-      "completed": 10
+      "completed": 11
     },
     {
       "id": 2618643479,
@@ -3049,8 +3049,35 @@
       ],
       "firstScorer": 3327815286,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882824",
+      "date": "2026-11-02T20:00Z",
+      "home": 3626330792,
+      "away": 2721363159,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2721363159,
+          "minute": "32",
+          "bin": 2
+        },
+        {
+          "team": 3626330792,
+          "minute": "64",
+          "bin": 5
+        },
+        {
+          "team": 3626330792,
+          "minute": "87",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 2721363159,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 108,
+  "completedMatches": 109,
   "excluded": []
 }

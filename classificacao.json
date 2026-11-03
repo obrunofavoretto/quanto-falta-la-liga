@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-02T19:24:35.018307+00:00",
+  "fetchedAt": "2026-11-03T02:04:35.156508+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -78,13 +78,23 @@
       "sourceId": "93"
     },
     {
+      "id": 3626330792,
+      "name": "Deportivo A Coruña",
+      "points": 14,
+      "played": 11,
+      "goalsFor": 15,
+      "goalsAgainst": 14,
+      "position": 8,
+      "sourceId": "90"
+    },
+    {
       "id": 4076848127,
       "name": "Villarreal",
       "points": 12,
       "played": 11,
       "goalsFor": 15,
       "goalsAgainst": 15,
-      "position": 8,
+      "position": 9,
       "sourceId": "102"
     },
     {
@@ -94,7 +104,7 @@
       "played": 11,
       "goalsFor": 10,
       "goalsAgainst": 10,
-      "position": 9,
+      "position": 10,
       "sourceId": "85"
     },
     {
@@ -104,7 +114,7 @@
       "played": 11,
       "goalsFor": 15,
       "goalsAgainst": 17,
-      "position": 10,
+      "position": 11,
       "sourceId": "96"
     },
     {
@@ -114,7 +124,7 @@
       "played": 10,
       "goalsFor": 15,
       "goalsAgainst": 20,
-      "position": 11,
+      "position": 12,
       "sourceId": "101"
     },
     {
@@ -124,18 +134,8 @@
       "played": 11,
       "goalsFor": 8,
       "goalsAgainst": 16,
-      "position": 12,
-      "sourceId": "2922"
-    },
-    {
-      "id": 3626330792,
-      "name": "Deportivo A Coruña",
-      "points": 11,
-      "played": 10,
-      "goalsFor": 13,
-      "goalsAgainst": 13,
       "position": 13,
-      "sourceId": "90"
+      "sourceId": "2922"
     },
     {
       "id": 3954215064,
@@ -151,9 +151,9 @@
       "id": 2721363159,
       "name": "Osasuna",
       "points": 11,
-      "played": 10,
-      "goalsFor": 10,
-      "goalsAgainst": 20,
+      "played": 11,
+      "goalsFor": 11,
+      "goalsAgainst": 22,
       "position": 15,
       "sourceId": "97"
     },
