@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-06T19:03:18.324203+00:00",
+  "fetchedAt": "2026-11-06T23:42:16.152007+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -50,7 +50,7 @@
       "id": 1563710680,
       "name": "Sevilla",
       "sourceId": "243",
-      "completed": 11
+      "completed": 12
     },
     {
       "id": 3327815286,
@@ -65,6 +65,12 @@
       "completed": 11
     },
     {
+      "id": 137796659,
+      "name": "Alavés",
+      "sourceId": "96",
+      "completed": 12
+    },
+    {
       "id": 4076848127,
       "name": "Villarreal",
       "sourceId": "102",
@@ -74,12 +80,6 @@
       "id": 416150701,
       "name": "Celta Vigo",
       "sourceId": "85",
-      "completed": 11
-    },
-    {
-      "id": 137796659,
-      "name": "Alavés",
-      "sourceId": "96",
       "completed": 11
     },
     {
@@ -3076,8 +3076,19 @@
       ],
       "firstScorer": 2721363159,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882809",
+      "date": "2026-11-06T20:00Z",
+      "home": 1563710680,
+      "away": 137796659,
+      "hg": 0,
+      "ag": 0,
+      "goals": [],
+      "firstScorer": null,
+      "firstGoalStatus": "goalless"
     }
   ],
-  "completedMatches": 109,
+  "completedMatches": 110,
   "excluded": []
 }
