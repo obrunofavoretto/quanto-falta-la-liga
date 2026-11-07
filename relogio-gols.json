@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-07T17:57:46.122770+00:00",
+  "fetchedAt": "2026-11-07T21:36:30.642922+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -56,7 +56,7 @@
       "id": 3327815286,
       "name": "Athletic Bilbao",
       "sourceId": "93",
-      "completed": 10
+      "completed": 11
     },
     {
       "id": 3626330792,
@@ -110,7 +110,7 @@
       "id": 2721363159,
       "name": "Osasuna",
       "sourceId": "97",
-      "completed": 11
+      "completed": 12
     },
     {
       "id": 1083761366,
@@ -3125,8 +3125,30 @@
       "goals": [],
       "firstScorer": null,
       "firstGoalStatus": "goalless"
+    },
+    {
+      "id": "401882811",
+      "date": "2026-11-07T17:30Z",
+      "home": 2721363159,
+      "away": 3327815286,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3327815286,
+          "minute": "84",
+          "bin": 6
+        },
+        {
+          "team": 2721363159,
+          "minute": "90",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3327815286,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 112,
+  "completedMatches": 113,
   "excluded": []
 }
