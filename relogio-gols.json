@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-07T12:40:15.284859+00:00",
+  "fetchedAt": "2026-11-07T17:57:46.122770+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -62,7 +62,13 @@
       "id": 3626330792,
       "name": "Deportivo A Coruña",
       "sourceId": "90",
-      "completed": 11
+      "completed": 12
+    },
+    {
+      "id": 2618643479,
+      "name": "Racing Santander",
+      "sourceId": "87",
+      "completed": 12
     },
     {
       "id": 137796659,
@@ -83,6 +89,12 @@
       "completed": 11
     },
     {
+      "id": 3954215064,
+      "name": "Espanyol",
+      "sourceId": "88",
+      "completed": 12
+    },
+    {
       "id": 3479518012,
       "name": "Rayo Vallecano",
       "sourceId": "101",
@@ -95,21 +107,9 @@
       "completed": 11
     },
     {
-      "id": 3954215064,
-      "name": "Espanyol",
-      "sourceId": "88",
-      "completed": 11
-    },
-    {
       "id": 2721363159,
       "name": "Osasuna",
       "sourceId": "97",
-      "completed": 11
-    },
-    {
-      "id": 2618643479,
-      "name": "Racing Santander",
-      "sourceId": "87",
       "completed": 11
     },
     {
@@ -134,7 +134,7 @@
       "id": 1801350210,
       "name": "Málaga",
       "sourceId": "99",
-      "completed": 11
+      "completed": 12
     }
   ],
   "matches": [
@@ -3087,8 +3087,46 @@
       "goals": [],
       "firstScorer": null,
       "firstGoalStatus": "goalless"
+    },
+    {
+      "id": "401882812",
+      "date": "2026-11-07T13:00Z",
+      "home": 1801350210,
+      "away": 2618643479,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 1801350210,
+          "minute": "28",
+          "bin": 1
+        },
+        {
+          "team": 2618643479,
+          "minute": "50",
+          "bin": 4
+        },
+        {
+          "team": 2618643479,
+          "minute": "60",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 1801350210,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882813",
+      "date": "2026-11-07T15:15Z",
+      "home": 3954215064,
+      "away": 3626330792,
+      "hg": 0,
+      "ag": 0,
+      "goals": [],
+      "firstScorer": null,
+      "firstGoalStatus": "goalless"
     }
   ],
-  "completedMatches": 110,
+  "completedMatches": 112,
   "excluded": []
 }
