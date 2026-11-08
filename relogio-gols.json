@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-08T08:43:52.615309+00:00",
+  "fetchedAt": "2026-11-08T15:51:49.184453+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -38,7 +38,7 @@
       "id": 3843095170,
       "name": "Real Betis",
       "sourceId": "244",
-      "completed": 11
+      "completed": 12
     },
     {
       "id": 3895707530,
@@ -113,16 +113,16 @@
       "completed": 12
     },
     {
-      "id": 1083761366,
-      "name": "Elche",
-      "sourceId": "3751",
-      "completed": 11
-    },
-    {
       "id": 3587178228,
       "name": "Levante",
       "sourceId": "1538",
       "completed": 11
+    },
+    {
+      "id": 1083761366,
+      "name": "Elche",
+      "sourceId": "3751",
+      "completed": 12
     },
     {
       "id": 2259635026,
@@ -3174,8 +3174,30 @@
       ],
       "firstScorer": 2898690600,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882814",
+      "date": "2026-11-08T13:00Z",
+      "home": 1083761366,
+      "away": 3843095170,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3843095170,
+          "minute": "81",
+          "bin": 6
+        },
+        {
+          "team": 3843095170,
+          "minute": "89",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3843095170,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 114,
+  "completedMatches": 115,
   "excluded": []
 }

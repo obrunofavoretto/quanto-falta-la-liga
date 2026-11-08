@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-08T08:43:52.615309+00:00",
+  "fetchedAt": "2026-11-08T15:51:49.184453+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -84,12 +84,12 @@
         "goalsAgainst": 8
       },
       "away": {
-        "played": 5,
-        "points": 8,
-        "wins": 2,
+        "played": 6,
+        "points": 11,
+        "wins": 3,
         "draws": 2,
         "losses": 1,
-        "goalsFor": 6,
+        "goalsFor": 8,
         "goalsAgainst": 7
       }
     },
@@ -358,28 +358,6 @@
       }
     },
     {
-      "id": 1083761366,
-      "name": "Elche",
-      "home": {
-        "played": 5,
-        "points": 1,
-        "wins": 0,
-        "draws": 1,
-        "losses": 4,
-        "goalsFor": 4,
-        "goalsAgainst": 12
-      },
-      "away": {
-        "played": 6,
-        "points": 9,
-        "wins": 2,
-        "draws": 3,
-        "losses": 1,
-        "goalsFor": 10,
-        "goalsAgainst": 6
-      }
-    },
-    {
       "id": 3587178228,
       "name": "Levante",
       "home": {
@@ -399,6 +377,28 @@
         "losses": 3,
         "goalsFor": 3,
         "goalsAgainst": 9
+      }
+    },
+    {
+      "id": 1083761366,
+      "name": "Elche",
+      "home": {
+        "played": 6,
+        "points": 1,
+        "wins": 0,
+        "draws": 1,
+        "losses": 5,
+        "goalsFor": 4,
+        "goalsAgainst": 14
+      },
+      "away": {
+        "played": 6,
+        "points": 9,
+        "wins": 2,
+        "draws": 3,
+        "losses": 1,
+        "goalsFor": 10,
+        "goalsAgainst": 6
       }
     },
     {

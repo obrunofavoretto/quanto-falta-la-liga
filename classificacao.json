@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-08T08:43:52.615309+00:00",
+  "fetchedAt": "2026-11-08T15:51:49.184453+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -40,9 +40,9 @@
     {
       "id": 3843095170,
       "name": "Real Betis",
-      "points": 23,
-      "played": 11,
-      "goalsFor": 18,
+      "points": 26,
+      "played": 12,
+      "goalsFor": 20,
       "goalsAgainst": 15,
       "position": 4,
       "sourceId": "244"
@@ -168,24 +168,24 @@
       "sourceId": "97"
     },
     {
-      "id": 1083761366,
-      "name": "Elche",
-      "points": 10,
-      "played": 11,
-      "goalsFor": 14,
-      "goalsAgainst": 18,
-      "position": 17,
-      "sourceId": "3751"
-    },
-    {
       "id": 3587178228,
       "name": "Levante",
       "points": 10,
       "played": 11,
       "goalsFor": 16,
       "goalsAgainst": 21,
-      "position": 18,
+      "position": 17,
       "sourceId": "1538"
+    },
+    {
+      "id": 1083761366,
+      "name": "Elche",
+      "points": 10,
+      "played": 12,
+      "goalsFor": 14,
+      "goalsAgainst": 20,
+      "position": 18,
+      "sourceId": "3751"
     },
     {
       "id": 2259635026,
