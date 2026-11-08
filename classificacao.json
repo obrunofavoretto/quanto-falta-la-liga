@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-07T21:36:30.642922+00:00",
+  "fetchedAt": "2026-11-08T01:12:02.467570+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -18,24 +18,24 @@
       "sourceId": "83"
     },
     {
+      "id": 2898690600,
+      "name": "Real Madrid",
+      "points": 30,
+      "played": 12,
+      "goalsFor": 31,
+      "goalsAgainst": 10,
+      "position": 2,
+      "sourceId": "86"
+    },
+    {
       "id": 3542330727,
       "name": "Atlético Madrid",
       "points": 28,
       "played": 11,
       "goalsFor": 22,
       "goalsAgainst": 8,
-      "position": 2,
-      "sourceId": "1068"
-    },
-    {
-      "id": 2898690600,
-      "name": "Real Madrid",
-      "points": 27,
-      "played": 11,
-      "goalsFor": 28,
-      "goalsAgainst": 10,
       "position": 3,
-      "sourceId": "86"
+      "sourceId": "1068"
     },
     {
       "id": 3843095170,
@@ -191,9 +191,9 @@
       "id": 2259635026,
       "name": "Valencia",
       "points": 9,
-      "played": 11,
+      "played": 12,
       "goalsFor": 8,
-      "goalsAgainst": 17,
+      "goalsAgainst": 20,
       "position": 19,
       "sourceId": "94"
     },

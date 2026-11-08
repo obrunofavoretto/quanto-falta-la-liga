@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-07T21:36:30.642922+00:00",
+  "fetchedAt": "2026-11-08T01:12:02.467570+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -28,6 +28,28 @@
       }
     },
     {
+      "id": 2898690600,
+      "name": "Real Madrid",
+      "home": {
+        "played": 5,
+        "points": 15,
+        "wins": 5,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 17,
+        "goalsAgainst": 3
+      },
+      "away": {
+        "played": 7,
+        "points": 15,
+        "wins": 5,
+        "draws": 0,
+        "losses": 2,
+        "goalsFor": 14,
+        "goalsAgainst": 7
+      }
+    },
+    {
       "id": 3542330727,
       "name": "Atlético Madrid",
       "home": {
@@ -47,28 +69,6 @@
         "losses": 1,
         "goalsFor": 11,
         "goalsAgainst": 5
-      }
-    },
-    {
-      "id": 2898690600,
-      "name": "Real Madrid",
-      "home": {
-        "played": 5,
-        "points": 15,
-        "wins": 5,
-        "draws": 0,
-        "losses": 0,
-        "goalsFor": 17,
-        "goalsAgainst": 3
-      },
-      "away": {
-        "played": 6,
-        "points": 12,
-        "wins": 4,
-        "draws": 0,
-        "losses": 2,
-        "goalsFor": 11,
-        "goalsAgainst": 7
       }
     },
     {
@@ -405,13 +405,13 @@
       "id": 2259635026,
       "name": "Valencia",
       "home": {
-        "played": 6,
+        "played": 7,
         "points": 2,
         "wins": 0,
         "draws": 2,
-        "losses": 4,
+        "losses": 5,
         "goalsFor": 3,
-        "goalsAgainst": 11
+        "goalsAgainst": 14
       },
       "away": {
         "played": 5,

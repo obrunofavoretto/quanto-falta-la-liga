@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-07T21:36:30.642922+00:00",
+  "fetchedAt": "2026-11-08T01:12:02.467570+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -23,15 +23,15 @@
       "completed": 11
     },
     {
-      "id": 3542330727,
-      "name": "Atlético Madrid",
-      "sourceId": "1068",
-      "completed": 11
-    },
-    {
       "id": 2898690600,
       "name": "Real Madrid",
       "sourceId": "86",
+      "completed": 12
+    },
+    {
+      "id": 3542330727,
+      "name": "Atlético Madrid",
+      "sourceId": "1068",
       "completed": 11
     },
     {
@@ -128,7 +128,7 @@
       "id": 2259635026,
       "name": "Valencia",
       "sourceId": "94",
-      "completed": 11
+      "completed": 12
     },
     {
       "id": 1801350210,
@@ -3147,8 +3147,35 @@
       ],
       "firstScorer": 3327815286,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882808",
+      "date": "2026-11-07T20:00Z",
+      "home": 2259635026,
+      "away": 2898690600,
+      "hg": 0,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 2898690600,
+          "minute": "28",
+          "bin": 1
+        },
+        {
+          "team": 2898690600,
+          "minute": "36",
+          "bin": 2
+        },
+        {
+          "team": 2898690600,
+          "minute": "75",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2898690600,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 113,
+  "completedMatches": 114,
   "excluded": []
 }
