@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-08T20:16:24.481233+00:00",
+  "fetchedAt": "2026-11-09T00:38:12.729272+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -10,10 +10,10 @@
     {
       "id": 418278010,
       "name": "Barcelona",
-      "points": 30,
-      "played": 11,
-      "goalsFor": 46,
-      "goalsAgainst": 12,
+      "points": 33,
+      "played": 12,
+      "goalsFor": 48,
+      "goalsAgainst": 13,
       "position": 1,
       "sourceId": "83"
     },
@@ -31,9 +31,9 @@
       "id": 3542330727,
       "name": "Atlético Madrid",
       "points": 28,
-      "played": 11,
-      "goalsFor": 22,
-      "goalsAgainst": 8,
+      "played": 12,
+      "goalsFor": 23,
+      "goalsAgainst": 10,
       "position": 3,
       "sourceId": "1068"
     },

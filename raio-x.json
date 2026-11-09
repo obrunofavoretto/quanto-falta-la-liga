@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-08T20:16:24.481233+00:00",
+  "fetchedAt": "2026-11-09T00:38:12.729272+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -9,12 +9,25 @@
     {
       "id": 418278010,
       "name": "Barcelona",
-      "points": 30,
-      "played": 11,
-      "goalsFor": 46,
-      "goalsAgainst": 12,
+      "points": 33,
+      "played": 12,
+      "goalsFor": 48,
+      "goalsAgainst": 13,
       "position": 1,
       "recent": [
+        {
+          "id": "401882816",
+          "date": 1794168000000,
+          "home": "Atlético Madrid",
+          "away": "Barcelona",
+          "hg": 1,
+          "ag": 2,
+          "points": 3,
+          "opponent": "Atlético Madrid",
+          "venue": "Fora",
+          "score": "2–1",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401882822",
           "date": 1793476800000,
@@ -131,23 +144,10 @@
           "venue": "Casa",
           "score": "5–2",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882921",
-          "date": 1787857200000,
-          "home": "Barcelona",
-          "away": "Athletic Bilbao",
-          "hg": 2,
-          "ag": 0,
-          "points": 3,
-          "opponent": "Athletic Bilbao",
-          "venue": "Casa",
-          "score": "2–0",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401882822",
-      "lastMatchDate": 1793476800000,
+      "lastMatchId": "401882816",
+      "lastMatchDate": 1794168000000,
       "sourceId": "83"
     },
     {
@@ -298,11 +298,24 @@
       "id": 3542330727,
       "name": "Atlético Madrid",
       "points": 28,
-      "played": 11,
-      "goalsFor": 22,
-      "goalsAgainst": 8,
+      "played": 12,
+      "goalsFor": 23,
+      "goalsAgainst": 10,
       "position": 3,
       "recent": [
+        {
+          "id": "401882816",
+          "date": 1794168000000,
+          "home": "Atlético Madrid",
+          "away": "Barcelona",
+          "hg": 1,
+          "ag": 2,
+          "points": 0,
+          "opponent": "Barcelona",
+          "venue": "Casa",
+          "score": "1–2",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401882820",
           "date": 1793451600000,
@@ -419,23 +432,10 @@
           "venue": "Fora",
           "score": "3–1",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882915",
-          "date": 1787497200000,
-          "home": "Atlético Madrid",
-          "away": "Villarreal",
-          "hg": 2,
-          "ag": 2,
-          "points": 1,
-          "opponent": "Villarreal",
-          "venue": "Casa",
-          "score": "2–2",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401882820",
-      "lastMatchDate": 1793451600000,
+      "lastMatchId": "401882816",
+      "lastMatchDate": 1794168000000,
       "sourceId": "1068"
     },
     {
@@ -3100,14 +3100,6 @@
       "id": "2898690600-2259635026",
       "home": 2898690600,
       "away": 2259635026,
-      "date": null,
-      "round": "Rodada a confirmar",
-      "status": "pending"
-    },
-    {
-      "id": "3542330727-418278010",
-      "home": 3542330727,
-      "away": 418278010,
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"

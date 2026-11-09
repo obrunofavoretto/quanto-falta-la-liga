@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-08T20:16:24.481233+00:00",
+  "fetchedAt": "2026-11-09T00:38:12.729272+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -20,7 +20,7 @@
       "id": 418278010,
       "name": "Barcelona",
       "sourceId": "83",
-      "completed": 11
+      "completed": 12
     },
     {
       "id": 2898690600,
@@ -32,7 +32,7 @@
       "id": 3542330727,
       "name": "Atlético Madrid",
       "sourceId": "1068",
-      "completed": 11
+      "completed": 12
     },
     {
       "id": 3843095170,
@@ -3246,8 +3246,35 @@
       "goals": [],
       "firstScorer": null,
       "firstGoalStatus": "goalless"
+    },
+    {
+      "id": "401882816",
+      "date": "2026-11-08T20:00Z",
+      "home": 3542330727,
+      "away": 418278010,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 3542330727,
+          "minute": "10",
+          "bin": 0
+        },
+        {
+          "team": 418278010,
+          "minute": "45",
+          "bin": 2
+        },
+        {
+          "team": 418278010,
+          "minute": "66",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3542330727,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 118,
+  "completedMatches": 119,
   "excluded": []
 }
