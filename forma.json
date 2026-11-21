@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-21T16:39:36.541734+00:00",
+  "fetchedAt": "2026-11-21T22:04:37.086604+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -153,12 +153,25 @@
     {
       "id": 2898690600,
       "name": "Real Madrid",
-      "points": 30,
-      "played": 12,
-      "goalsFor": 31,
-      "goalsAgainst": 10,
+      "points": 33,
+      "played": 13,
+      "goalsFor": 33,
+      "goalsAgainst": 11,
       "position": 2,
       "recent": [
+        {
+          "id": "401882798",
+          "date": 1795291200000,
+          "home": "Real Madrid",
+          "away": "Celta Vigo",
+          "hg": 2,
+          "ag": 1,
+          "points": 3,
+          "opponent": "Celta Vigo",
+          "venue": "Casa",
+          "score": "2–1",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401882808",
           "date": 1794081600000,
@@ -275,23 +288,10 @@
           "venue": "Fora",
           "score": "0–1",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882899",
-          "date": 1788102000000,
-          "home": "Real Madrid",
-          "away": "Málaga",
-          "hg": 4,
-          "ag": 0,
-          "points": 3,
-          "opponent": "Málaga",
-          "venue": "Casa",
-          "score": "4–0",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401882808",
-      "lastMatchDate": 1794081600000,
+      "lastMatchId": "401882798",
+      "lastMatchDate": 1795291200000,
       "sourceId": "86"
     },
     {
@@ -441,12 +441,25 @@
     {
       "id": 3843095170,
       "name": "Real Betis",
-      "points": 26,
-      "played": 12,
-      "goalsFor": 20,
-      "goalsAgainst": 15,
+      "points": 27,
+      "played": 13,
+      "goalsFor": 21,
+      "goalsAgainst": 16,
       "position": 4,
       "recent": [
+        {
+          "id": "401882797",
+          "date": 1795282200000,
+          "home": "Sevilla",
+          "away": "Real Betis",
+          "hg": 1,
+          "ag": 1,
+          "points": 1,
+          "opponent": "Sevilla",
+          "venue": "Fora",
+          "score": "1–1",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401882814",
           "date": 1794142800000,
@@ -563,23 +576,10 @@
           "venue": "Casa",
           "score": "1–0",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882902",
-          "date": 1788015600000,
-          "home": "Levante",
-          "away": "Real Betis",
-          "hg": 5,
-          "ag": 2,
-          "points": 0,
-          "opponent": "Levante",
-          "venue": "Fora",
-          "score": "2–5",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401882814",
-      "lastMatchDate": 1794142800000,
+      "lastMatchId": "401882797",
+      "lastMatchDate": 1795282200000,
       "sourceId": "244"
     },
     {
@@ -729,12 +729,25 @@
     {
       "id": 1563710680,
       "name": "Sevilla",
-      "points": 18,
-      "played": 12,
-      "goalsFor": 17,
-      "goalsAgainst": 19,
+      "points": 19,
+      "played": 13,
+      "goalsFor": 18,
+      "goalsAgainst": 20,
       "position": 6,
       "recent": [
+        {
+          "id": "401882797",
+          "date": 1795282200000,
+          "home": "Sevilla",
+          "away": "Real Betis",
+          "hg": 1,
+          "ag": 1,
+          "points": 1,
+          "opponent": "Real Betis",
+          "venue": "Casa",
+          "score": "1–1",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401882809",
           "date": 1793995200000,
@@ -851,23 +864,10 @@
           "venue": "Fora",
           "score": "1–1",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882897",
-          "date": 1788031800000,
-          "home": "Sevilla",
-          "away": "Atlético Madrid",
-          "hg": 1,
-          "ag": 3,
-          "points": 0,
-          "opponent": "Atlético Madrid",
-          "venue": "Casa",
-          "score": "1–3",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401882809",
-      "lastMatchDate": 1793995200000,
+      "lastMatchId": "401882797",
+      "lastMatchDate": 1795282200000,
       "sourceId": "243"
     },
     {
@@ -1738,11 +1738,24 @@
       "id": 416150701,
       "name": "Celta Vigo",
       "points": 13,
-      "played": 12,
-      "goalsFor": 10,
-      "goalsAgainst": 10,
+      "played": 13,
+      "goalsFor": 11,
+      "goalsAgainst": 12,
       "position": 13,
       "recent": [
+        {
+          "id": "401882798",
+          "date": 1795291200000,
+          "home": "Real Madrid",
+          "away": "Celta Vigo",
+          "hg": 2,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Real Madrid",
+          "venue": "Fora",
+          "score": "1–2",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401882815",
           "date": 1794159000000,
@@ -1859,34 +1872,34 @@
           "venue": "Fora",
           "score": "0–0",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882905",
-          "date": 1788118200000,
-          "home": "Celta Vigo",
-          "away": "Athletic Bilbao",
-          "hg": 0,
-          "ag": 2,
-          "points": 0,
-          "opponent": "Athletic Bilbao",
-          "venue": "Casa",
-          "score": "0–2",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401882815",
-      "lastMatchDate": 1794159000000,
+      "lastMatchId": "401882798",
+      "lastMatchDate": 1795291200000,
       "sourceId": "85"
     },
     {
       "id": 3479518012,
       "name": "Rayo Vallecano",
       "points": 12,
-      "played": 11,
+      "played": 12,
       "goalsFor": 15,
-      "goalsAgainst": 21,
+      "goalsAgainst": 22,
       "position": 14,
       "recent": [
+        {
+          "id": "401882799",
+          "date": 1795274100000,
+          "home": "Rayo Vallecano",
+          "away": "Valencia",
+          "hg": 0,
+          "ag": 1,
+          "points": 0,
+          "opponent": "Valencia",
+          "venue": "Casa",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401882810",
           "date": 1794150900000,
@@ -2003,23 +2016,10 @@
           "venue": "Fora",
           "score": "2–5",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882908",
-          "date": 1787252400000,
-          "home": "Rayo Vallecano",
-          "away": "Alavés",
-          "hg": 1,
-          "ag": 1,
-          "points": 1,
-          "opponent": "Alavés",
-          "venue": "Casa",
-          "score": "1–1",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401882810",
-      "lastMatchDate": 1794150900000,
+      "lastMatchId": "401882799",
+      "lastMatchDate": 1795274100000,
       "sourceId": "101"
     },
     {
@@ -2311,13 +2311,157 @@
       "sourceId": "97"
     },
     {
+      "id": 2259635026,
+      "name": "Valencia",
+      "points": 12,
+      "played": 13,
+      "goalsFor": 9,
+      "goalsAgainst": 20,
+      "position": 17,
+      "recent": [
+        {
+          "id": "401882799",
+          "date": 1795274100000,
+          "home": "Rayo Vallecano",
+          "away": "Valencia",
+          "hg": 0,
+          "ag": 1,
+          "points": 3,
+          "opponent": "Rayo Vallecano",
+          "venue": "Fora",
+          "score": "1–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401882808",
+          "date": 1794081600000,
+          "home": "Valencia",
+          "away": "Real Madrid",
+          "hg": 0,
+          "ag": 3,
+          "points": 0,
+          "opponent": "Real Madrid",
+          "venue": "Casa",
+          "score": "0–3",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401882823",
+          "date": 1793554200000,
+          "home": "Elche",
+          "away": "Valencia",
+          "hg": 0,
+          "ag": 1,
+          "points": 3,
+          "opponent": "Elche",
+          "venue": "Fora",
+          "score": "1–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401882827",
+          "date": 1792859400000,
+          "home": "Valencia",
+          "away": "Villarreal",
+          "hg": 1,
+          "ag": 2,
+          "points": 0,
+          "opponent": "Villarreal",
+          "venue": "Casa",
+          "score": "1–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401882838",
+          "date": 1792263600000,
+          "home": "Valencia",
+          "away": "Athletic Bilbao",
+          "hg": 0,
+          "ag": 0,
+          "points": 1,
+          "opponent": "Athletic Bilbao",
+          "venue": "Casa",
+          "score": "0–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401882850",
+          "date": 1791745200000,
+          "home": "Racing Santander",
+          "away": "Valencia",
+          "hg": 2,
+          "ag": 2,
+          "points": 1,
+          "opponent": "Racing Santander",
+          "venue": "Fora",
+          "score": "2–2",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401882858",
+          "date": 1789930800000,
+          "home": "Valencia",
+          "away": "Real Sociedad",
+          "hg": 2,
+          "ag": 3,
+          "points": 0,
+          "opponent": "Real Sociedad",
+          "venue": "Casa",
+          "score": "2–3",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401882876",
+          "date": 1789495200000,
+          "home": "Alavés",
+          "away": "Valencia",
+          "hg": 0,
+          "ag": 1,
+          "points": 3,
+          "opponent": "Alavés",
+          "venue": "Fora",
+          "score": "1–0",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401882878",
+          "date": 1789153200000,
+          "home": "Sevilla",
+          "away": "Valencia",
+          "hg": 1,
+          "ag": 0,
+          "points": 0,
+          "opponent": "Sevilla",
+          "venue": "Fora",
+          "score": "0–1",
+          "round": "Rodada a confirmar"
+        },
+        {
+          "id": "401882888",
+          "date": 1788704100000,
+          "home": "Valencia",
+          "away": "Barcelona",
+          "hg": 0,
+          "ag": 5,
+          "points": 0,
+          "opponent": "Barcelona",
+          "venue": "Casa",
+          "score": "0–5",
+          "round": "Rodada a confirmar"
+        }
+      ],
+      "lastMatchId": "401882799",
+      "lastMatchDate": 1795274100000,
+      "sourceId": "94"
+    },
+    {
       "id": 3587178228,
       "name": "Levante",
       "points": 11,
       "played": 12,
       "goalsFor": 16,
       "goalsAgainst": 21,
-      "position": 17,
+      "position": 18,
       "recent": [
         {
           "id": "401882815",
@@ -2461,7 +2605,7 @@
       "played": 12,
       "goalsFor": 14,
       "goalsAgainst": 20,
-      "position": 18,
+      "position": 19,
       "recent": [
         {
           "id": "401882814",
@@ -2597,150 +2741,6 @@
       "lastMatchId": "401882814",
       "lastMatchDate": 1794142800000,
       "sourceId": "3751"
-    },
-    {
-      "id": 2259635026,
-      "name": "Valencia",
-      "points": 9,
-      "played": 12,
-      "goalsFor": 8,
-      "goalsAgainst": 20,
-      "position": 19,
-      "recent": [
-        {
-          "id": "401882808",
-          "date": 1794081600000,
-          "home": "Valencia",
-          "away": "Real Madrid",
-          "hg": 0,
-          "ag": 3,
-          "points": 0,
-          "opponent": "Real Madrid",
-          "venue": "Casa",
-          "score": "0–3",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882823",
-          "date": 1793554200000,
-          "home": "Elche",
-          "away": "Valencia",
-          "hg": 0,
-          "ag": 1,
-          "points": 3,
-          "opponent": "Elche",
-          "venue": "Fora",
-          "score": "1–0",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882827",
-          "date": 1792859400000,
-          "home": "Valencia",
-          "away": "Villarreal",
-          "hg": 1,
-          "ag": 2,
-          "points": 0,
-          "opponent": "Villarreal",
-          "venue": "Casa",
-          "score": "1–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882838",
-          "date": 1792263600000,
-          "home": "Valencia",
-          "away": "Athletic Bilbao",
-          "hg": 0,
-          "ag": 0,
-          "points": 1,
-          "opponent": "Athletic Bilbao",
-          "venue": "Casa",
-          "score": "0–0",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882850",
-          "date": 1791745200000,
-          "home": "Racing Santander",
-          "away": "Valencia",
-          "hg": 2,
-          "ag": 2,
-          "points": 1,
-          "opponent": "Racing Santander",
-          "venue": "Fora",
-          "score": "2–2",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882858",
-          "date": 1789930800000,
-          "home": "Valencia",
-          "away": "Real Sociedad",
-          "hg": 2,
-          "ag": 3,
-          "points": 0,
-          "opponent": "Real Sociedad",
-          "venue": "Casa",
-          "score": "2–3",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882876",
-          "date": 1789495200000,
-          "home": "Alavés",
-          "away": "Valencia",
-          "hg": 0,
-          "ag": 1,
-          "points": 3,
-          "opponent": "Alavés",
-          "venue": "Fora",
-          "score": "1–0",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882878",
-          "date": 1789153200000,
-          "home": "Sevilla",
-          "away": "Valencia",
-          "hg": 1,
-          "ag": 0,
-          "points": 0,
-          "opponent": "Sevilla",
-          "venue": "Fora",
-          "score": "0–1",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882888",
-          "date": 1788704100000,
-          "home": "Valencia",
-          "away": "Barcelona",
-          "hg": 0,
-          "ag": 5,
-          "points": 0,
-          "opponent": "Barcelona",
-          "venue": "Casa",
-          "score": "0–5",
-          "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401882904",
-          "date": 1788111000000,
-          "home": "Deportivo A Coruña",
-          "away": "Valencia",
-          "hg": 3,
-          "ag": 1,
-          "points": 0,
-          "opponent": "Deportivo A Coruña",
-          "venue": "Fora",
-          "score": "1–3",
-          "round": "Rodada a confirmar"
-        }
-      ],
-      "lastMatchId": "401882808",
-      "lastMatchDate": 1794081600000,
-      "sourceId": "94"
     },
     {
       "id": 1801350210,

@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-21T16:39:36.541734+00:00",
+  "fetchedAt": "2026-11-21T22:04:37.086604+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -20,10 +20,10 @@
     {
       "id": 2898690600,
       "name": "Real Madrid",
-      "points": 30,
-      "played": 12,
-      "goalsFor": 31,
-      "goalsAgainst": 10,
+      "points": 33,
+      "played": 13,
+      "goalsFor": 33,
+      "goalsAgainst": 11,
       "position": 2,
       "sourceId": "86"
     },
@@ -40,10 +40,10 @@
     {
       "id": 3843095170,
       "name": "Real Betis",
-      "points": 26,
-      "played": 12,
-      "goalsFor": 20,
-      "goalsAgainst": 15,
+      "points": 27,
+      "played": 13,
+      "goalsFor": 21,
+      "goalsAgainst": 16,
       "position": 4,
       "sourceId": "244"
     },
@@ -60,10 +60,10 @@
     {
       "id": 1563710680,
       "name": "Sevilla",
-      "points": 18,
-      "played": 12,
-      "goalsFor": 17,
-      "goalsAgainst": 19,
+      "points": 19,
+      "played": 13,
+      "goalsFor": 18,
+      "goalsAgainst": 20,
       "position": 6,
       "sourceId": "243"
     },
@@ -131,9 +131,9 @@
       "id": 416150701,
       "name": "Celta Vigo",
       "points": 13,
-      "played": 12,
-      "goalsFor": 10,
-      "goalsAgainst": 10,
+      "played": 13,
+      "goalsFor": 11,
+      "goalsAgainst": 12,
       "position": 13,
       "sourceId": "85"
     },
@@ -141,9 +141,9 @@
       "id": 3479518012,
       "name": "Rayo Vallecano",
       "points": 12,
-      "played": 11,
+      "played": 12,
       "goalsFor": 15,
-      "goalsAgainst": 21,
+      "goalsAgainst": 22,
       "position": 14,
       "sourceId": "101"
     },
@@ -168,13 +168,23 @@
       "sourceId": "97"
     },
     {
+      "id": 2259635026,
+      "name": "Valencia",
+      "points": 12,
+      "played": 13,
+      "goalsFor": 9,
+      "goalsAgainst": 20,
+      "position": 17,
+      "sourceId": "94"
+    },
+    {
       "id": 3587178228,
       "name": "Levante",
       "points": 11,
       "played": 12,
       "goalsFor": 16,
       "goalsAgainst": 21,
-      "position": 17,
+      "position": 18,
       "sourceId": "1538"
     },
     {
@@ -184,18 +194,8 @@
       "played": 12,
       "goalsFor": 14,
       "goalsAgainst": 20,
-      "position": 18,
-      "sourceId": "3751"
-    },
-    {
-      "id": 2259635026,
-      "name": "Valencia",
-      "points": 9,
-      "played": 12,
-      "goalsFor": 8,
-      "goalsAgainst": 20,
       "position": 19,
-      "sourceId": "94"
+      "sourceId": "3751"
     },
     {
       "id": 1801350210,

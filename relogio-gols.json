@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-21T16:39:36.541734+00:00",
+  "fetchedAt": "2026-11-21T22:04:37.086604+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -26,7 +26,7 @@
       "id": 2898690600,
       "name": "Real Madrid",
       "sourceId": "86",
-      "completed": 12
+      "completed": 13
     },
     {
       "id": 3542330727,
@@ -38,7 +38,7 @@
       "id": 3843095170,
       "name": "Real Betis",
       "sourceId": "244",
-      "completed": 12
+      "completed": 13
     },
     {
       "id": 3895707530,
@@ -50,7 +50,7 @@
       "id": 1563710680,
       "name": "Sevilla",
       "sourceId": "243",
-      "completed": 12
+      "completed": 13
     },
     {
       "id": 3327815286,
@@ -92,13 +92,13 @@
       "id": 416150701,
       "name": "Celta Vigo",
       "sourceId": "85",
-      "completed": 12
+      "completed": 13
     },
     {
       "id": 3479518012,
       "name": "Rayo Vallecano",
       "sourceId": "101",
-      "completed": 11
+      "completed": 12
     },
     {
       "id": 654305354,
@@ -113,6 +113,12 @@
       "completed": 12
     },
     {
+      "id": 2259635026,
+      "name": "Valencia",
+      "sourceId": "94",
+      "completed": 13
+    },
+    {
       "id": 3587178228,
       "name": "Levante",
       "sourceId": "1538",
@@ -122,12 +128,6 @@
       "id": 1083761366,
       "name": "Elche",
       "sourceId": "3751",
-      "completed": 12
-    },
-    {
-      "id": 2259635026,
-      "name": "Valencia",
-      "sourceId": "94",
       "completed": 12
     },
     {
@@ -3322,8 +3322,74 @@
       ],
       "firstScorer": 137796659,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882799",
+      "date": "2026-11-21T15:15Z",
+      "home": 3479518012,
+      "away": 2259635026,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 2259635026,
+          "minute": "41",
+          "bin": 2
+        }
+      ],
+      "firstScorer": 2259635026,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882797",
+      "date": "2026-11-21T17:30Z",
+      "home": 1563710680,
+      "away": 3843095170,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3843095170,
+          "minute": "50",
+          "bin": 4
+        },
+        {
+          "team": 1563710680,
+          "minute": "90+1",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 3843095170,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882798",
+      "date": "2026-11-21T20:00Z",
+      "home": 2898690600,
+      "away": 416150701,
+      "hg": 2,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 416150701,
+          "minute": "6",
+          "bin": 0
+        },
+        {
+          "team": 2898690600,
+          "minute": "66",
+          "bin": 5
+        },
+        {
+          "team": 2898690600,
+          "minute": "85",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 416150701,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 121,
+  "completedMatches": 124,
   "excluded": []
 }
