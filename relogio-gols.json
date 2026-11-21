@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-20T19:02:05.101646+00:00",
+  "fetchedAt": "2026-11-21T00:44:04.271361+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -56,7 +56,7 @@
       "id": 3327815286,
       "name": "Athletic Bilbao",
       "sourceId": "93",
-      "completed": 11
+      "completed": 12
     },
     {
       "id": 4076848127,
@@ -69,6 +69,12 @@
       "name": "Deportivo A Coruña",
       "sourceId": "90",
       "completed": 12
+    },
+    {
+      "id": 3954215064,
+      "name": "Espanyol",
+      "sourceId": "88",
+      "completed": 13
     },
     {
       "id": 2618643479,
@@ -86,12 +92,6 @@
       "id": 137796659,
       "name": "Alavés",
       "sourceId": "96",
-      "completed": 12
-    },
-    {
-      "id": 3954215064,
-      "name": "Espanyol",
-      "sourceId": "88",
       "completed": 12
     },
     {
@@ -3273,8 +3273,25 @@
       ],
       "firstScorer": 3542330727,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882805",
+      "date": "2026-11-20T20:00Z",
+      "home": 3327815286,
+      "away": 3954215064,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3954215064,
+          "minute": "66",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3954215064,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 119,
+  "completedMatches": 120,
   "excluded": []
 }

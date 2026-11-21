@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-20T19:02:05.101646+00:00",
+  "fetchedAt": "2026-11-21T00:44:04.271361+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -71,9 +71,9 @@
       "id": 3327815286,
       "name": "Athletic Bilbao",
       "points": 16,
-      "played": 11,
+      "played": 12,
       "goalsFor": 15,
-      "goalsAgainst": 11,
+      "goalsAgainst": 12,
       "position": 7,
       "sourceId": "93"
     },
@@ -98,13 +98,23 @@
       "sourceId": "90"
     },
     {
+      "id": 3954215064,
+      "name": "Espanyol",
+      "points": 15,
+      "played": 13,
+      "goalsFor": 14,
+      "goalsAgainst": 14,
+      "position": 10,
+      "sourceId": "88"
+    },
+    {
       "id": 2618643479,
       "name": "Racing Santander",
       "points": 14,
       "played": 12,
       "goalsFor": 17,
       "goalsAgainst": 30,
-      "position": 10,
+      "position": 11,
       "sourceId": "87"
     },
     {
@@ -114,7 +124,7 @@
       "played": 12,
       "goalsFor": 10,
       "goalsAgainst": 10,
-      "position": 11,
+      "position": 12,
       "sourceId": "85"
     },
     {
@@ -124,18 +134,8 @@
       "played": 12,
       "goalsFor": 15,
       "goalsAgainst": 17,
-      "position": 12,
-      "sourceId": "96"
-    },
-    {
-      "id": 3954215064,
-      "name": "Espanyol",
-      "points": 12,
-      "played": 12,
-      "goalsFor": 13,
-      "goalsAgainst": 14,
       "position": 13,
-      "sourceId": "88"
+      "sourceId": "96"
     },
     {
       "id": 3479518012,
