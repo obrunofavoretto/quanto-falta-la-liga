@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-21T08:06:00.323746+00:00",
+  "fetchedAt": "2026-11-21T16:39:36.541734+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -78,24 +78,24 @@
       "sourceId": "93"
     },
     {
+      "id": 137796659,
+      "name": "Alavés",
+      "points": 16,
+      "played": 13,
+      "goalsFor": 18,
+      "goalsAgainst": 18,
+      "position": 8,
+      "sourceId": "96"
+    },
+    {
       "id": 4076848127,
       "name": "Villarreal",
       "points": 15,
       "played": 12,
       "goalsFor": 17,
       "goalsAgainst": 15,
-      "position": 8,
-      "sourceId": "102"
-    },
-    {
-      "id": 3626330792,
-      "name": "Deportivo A Coruña",
-      "points": 15,
-      "played": 12,
-      "goalsFor": 15,
-      "goalsAgainst": 14,
       "position": 9,
-      "sourceId": "90"
+      "sourceId": "102"
     },
     {
       "id": 3954215064,
@@ -108,13 +108,23 @@
       "sourceId": "88"
     },
     {
+      "id": 3626330792,
+      "name": "Deportivo A Coruña",
+      "points": 15,
+      "played": 13,
+      "goalsFor": 16,
+      "goalsAgainst": 17,
+      "position": 11,
+      "sourceId": "90"
+    },
+    {
       "id": 2618643479,
       "name": "Racing Santander",
       "points": 14,
       "played": 12,
       "goalsFor": 17,
       "goalsAgainst": 30,
-      "position": 11,
+      "position": 12,
       "sourceId": "87"
     },
     {
@@ -124,18 +134,8 @@
       "played": 12,
       "goalsFor": 10,
       "goalsAgainst": 10,
-      "position": 12,
-      "sourceId": "85"
-    },
-    {
-      "id": 137796659,
-      "name": "Alavés",
-      "points": 13,
-      "played": 12,
-      "goalsFor": 15,
-      "goalsAgainst": 17,
       "position": 13,
-      "sourceId": "96"
+      "sourceId": "85"
     },
     {
       "id": 3479518012,

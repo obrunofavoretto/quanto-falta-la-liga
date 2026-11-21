@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-21T08:06:00.323746+00:00",
+  "fetchedAt": "2026-11-21T16:39:36.541734+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -160,6 +160,28 @@
       }
     },
     {
+      "id": 137796659,
+      "name": "Alavés",
+      "home": {
+        "played": 7,
+        "points": 13,
+        "wins": 4,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 14,
+        "goalsAgainst": 7
+      },
+      "away": {
+        "played": 6,
+        "points": 3,
+        "wins": 0,
+        "draws": 3,
+        "losses": 3,
+        "goalsFor": 4,
+        "goalsAgainst": 11
+      }
+    },
+    {
       "id": 4076848127,
       "name": "Villarreal",
       "home": {
@@ -178,28 +200,6 @@
         "draws": 2,
         "losses": 2,
         "goalsFor": 9,
-        "goalsAgainst": 8
-      }
-    },
-    {
-      "id": 3626330792,
-      "name": "Deportivo A Coruña",
-      "home": {
-        "played": 6,
-        "points": 9,
-        "wins": 2,
-        "draws": 3,
-        "losses": 1,
-        "goalsFor": 8,
-        "goalsAgainst": 6
-      },
-      "away": {
-        "played": 6,
-        "points": 6,
-        "wins": 1,
-        "draws": 3,
-        "losses": 2,
-        "goalsFor": 7,
         "goalsAgainst": 8
       }
     },
@@ -223,6 +223,28 @@
         "losses": 3,
         "goalsFor": 8,
         "goalsAgainst": 7
+      }
+    },
+    {
+      "id": 3626330792,
+      "name": "Deportivo A Coruña",
+      "home": {
+        "played": 6,
+        "points": 9,
+        "wins": 2,
+        "draws": 3,
+        "losses": 1,
+        "goalsFor": 8,
+        "goalsAgainst": 6
+      },
+      "away": {
+        "played": 7,
+        "points": 6,
+        "wins": 1,
+        "draws": 3,
+        "losses": 3,
+        "goalsFor": 8,
+        "goalsAgainst": 11
       }
     },
     {
@@ -267,28 +289,6 @@
         "losses": 1,
         "goalsFor": 1,
         "goalsAgainst": 4
-      }
-    },
-    {
-      "id": 137796659,
-      "name": "Alavés",
-      "home": {
-        "played": 6,
-        "points": 10,
-        "wins": 3,
-        "draws": 1,
-        "losses": 2,
-        "goalsFor": 11,
-        "goalsAgainst": 6
-      },
-      "away": {
-        "played": 6,
-        "points": 3,
-        "wins": 0,
-        "draws": 3,
-        "losses": 3,
-        "goalsFor": 4,
-        "goalsAgainst": 11
       }
     },
     {
