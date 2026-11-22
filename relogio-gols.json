@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-22T10:53:17.536091+00:00",
+  "fetchedAt": "2026-11-22T18:19:19.226359+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -20,7 +20,7 @@
       "id": 418278010,
       "name": "Barcelona",
       "sourceId": "83",
-      "completed": 12
+      "completed": 13
     },
     {
       "id": 2898690600,
@@ -44,12 +44,18 @@
       "id": 3895707530,
       "name": "Real Sociedad",
       "sourceId": "89",
-      "completed": 12
+      "completed": 13
     },
     {
       "id": 1563710680,
       "name": "Sevilla",
       "sourceId": "243",
+      "completed": 13
+    },
+    {
+      "id": 2618643479,
+      "name": "Racing Santander",
+      "sourceId": "87",
       "completed": 13
     },
     {
@@ -68,7 +74,7 @@
       "id": 4076848127,
       "name": "Villarreal",
       "sourceId": "102",
-      "completed": 12
+      "completed": 13
     },
     {
       "id": 3954215064,
@@ -81,12 +87,6 @@
       "name": "Deportivo A Coruña",
       "sourceId": "90",
       "completed": 13
-    },
-    {
-      "id": 2618643479,
-      "name": "Racing Santander",
-      "sourceId": "87",
-      "completed": 12
     },
     {
       "id": 416150701,
@@ -3388,8 +3388,82 @@
       ],
       "firstScorer": 416150701,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882804",
+      "date": "2026-11-22T13:00Z",
+      "home": 418278010,
+      "away": 4076848127,
+      "hg": 3,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 4076848127,
+          "minute": "5",
+          "bin": 0
+        },
+        {
+          "team": 4076848127,
+          "minute": "7",
+          "bin": 0
+        },
+        {
+          "team": 418278010,
+          "minute": "57",
+          "bin": 4
+        },
+        {
+          "team": 418278010,
+          "minute": "61",
+          "bin": 5
+        },
+        {
+          "team": 418278010,
+          "minute": "67",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 4076848127,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882800",
+      "date": "2026-11-22T15:15Z",
+      "home": 2618643479,
+      "away": 3895707530,
+      "hg": 3,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 2618643479,
+          "minute": "6",
+          "bin": 0
+        },
+        {
+          "team": 2618643479,
+          "minute": "8",
+          "bin": 0
+        },
+        {
+          "team": 3895707530,
+          "minute": "45+1",
+          "bin": 3
+        },
+        {
+          "team": 3895707530,
+          "minute": "60",
+          "bin": 4
+        },
+        {
+          "team": 2618643479,
+          "minute": "68",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 2618643479,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 124,
+  "completedMatches": 126,
   "excluded": []
 }

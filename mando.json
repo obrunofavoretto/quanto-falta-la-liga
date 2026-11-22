@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-22T10:53:17.536091+00:00",
+  "fetchedAt": "2026-11-22T18:19:19.226359+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -9,13 +9,13 @@
       "id": 418278010,
       "name": "Barcelona",
       "home": {
-        "played": 6,
-        "points": 15,
-        "wins": 5,
+        "played": 7,
+        "points": 18,
+        "wins": 6,
         "draws": 0,
         "losses": 1,
-        "goalsFor": 24,
-        "goalsAgainst": 7
+        "goalsFor": 27,
+        "goalsAgainst": 9
       },
       "away": {
         "played": 6,
@@ -106,13 +106,13 @@
         "goalsAgainst": 7
       },
       "away": {
-        "played": 6,
+        "played": 7,
         "points": 9,
         "wins": 3,
         "draws": 0,
-        "losses": 3,
-        "goalsFor": 13,
-        "goalsAgainst": 13
+        "losses": 4,
+        "goalsFor": 15,
+        "goalsAgainst": 16
       }
     },
     {
@@ -135,6 +135,28 @@
         "losses": 2,
         "goalsFor": 10,
         "goalsAgainst": 12
+      }
+    },
+    {
+      "id": 2618643479,
+      "name": "Racing Santander",
+      "home": {
+        "played": 7,
+        "points": 14,
+        "wins": 4,
+        "draws": 2,
+        "losses": 1,
+        "goalsFor": 14,
+        "goalsAgainst": 13
+      },
+      "away": {
+        "played": 6,
+        "points": 3,
+        "wins": 1,
+        "draws": 0,
+        "losses": 5,
+        "goalsFor": 6,
+        "goalsAgainst": 19
       }
     },
     {
@@ -194,13 +216,13 @@
         "goalsAgainst": 7
       },
       "away": {
-        "played": 6,
+        "played": 7,
         "points": 8,
         "wins": 2,
         "draws": 2,
-        "losses": 2,
-        "goalsFor": 9,
-        "goalsAgainst": 8
+        "losses": 3,
+        "goalsFor": 11,
+        "goalsAgainst": 11
       }
     },
     {
@@ -245,28 +267,6 @@
         "losses": 3,
         "goalsFor": 8,
         "goalsAgainst": 11
-      }
-    },
-    {
-      "id": 2618643479,
-      "name": "Racing Santander",
-      "home": {
-        "played": 6,
-        "points": 11,
-        "wins": 3,
-        "draws": 2,
-        "losses": 1,
-        "goalsFor": 11,
-        "goalsAgainst": 11
-      },
-      "away": {
-        "played": 6,
-        "points": 3,
-        "wins": 1,
-        "draws": 0,
-        "losses": 5,
-        "goalsFor": 6,
-        "goalsAgainst": 19
       }
     },
     {
