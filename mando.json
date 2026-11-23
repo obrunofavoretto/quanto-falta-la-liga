@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-22T18:19:19.226359+00:00",
+  "fetchedAt": "2026-11-23T00:03:55.228378+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -62,12 +62,12 @@
         "goalsAgainst": 5
       },
       "away": {
-        "played": 6,
-        "points": 15,
-        "wins": 5,
+        "played": 7,
+        "points": 18,
+        "wins": 6,
         "draws": 0,
         "losses": 1,
-        "goalsFor": 11,
+        "goalsFor": 14,
         "goalsAgainst": 5
       }
     },
@@ -270,6 +270,28 @@
       }
     },
     {
+      "id": 2721363159,
+      "name": "Osasuna",
+      "home": {
+        "played": 7,
+        "points": 12,
+        "wins": 3,
+        "draws": 3,
+        "losses": 1,
+        "goalsFor": 6,
+        "goalsAgainst": 4
+      },
+      "away": {
+        "played": 6,
+        "points": 3,
+        "wins": 1,
+        "draws": 0,
+        "losses": 5,
+        "goalsFor": 7,
+        "goalsAgainst": 19
+      }
+    },
+    {
       "id": 416150701,
       "name": "Celta Vigo",
       "home": {
@@ -314,50 +336,6 @@
       }
     },
     {
-      "id": 654305354,
-      "name": "Getafe",
-      "home": {
-        "played": 6,
-        "points": 12,
-        "wins": 3,
-        "draws": 3,
-        "losses": 0,
-        "goalsFor": 8,
-        "goalsAgainst": 4
-      },
-      "away": {
-        "played": 6,
-        "points": 0,
-        "wins": 0,
-        "draws": 0,
-        "losses": 6,
-        "goalsFor": 0,
-        "goalsAgainst": 14
-      }
-    },
-    {
-      "id": 2721363159,
-      "name": "Osasuna",
-      "home": {
-        "played": 6,
-        "points": 9,
-        "wins": 2,
-        "draws": 3,
-        "losses": 1,
-        "goalsFor": 5,
-        "goalsAgainst": 4
-      },
-      "away": {
-        "played": 6,
-        "points": 3,
-        "wins": 1,
-        "draws": 0,
-        "losses": 5,
-        "goalsFor": 7,
-        "goalsAgainst": 19
-      }
-    },
-    {
       "id": 2259635026,
       "name": "Valencia",
       "home": {
@@ -377,6 +355,28 @@
         "losses": 2,
         "goalsFor": 6,
         "goalsAgainst": 6
+      }
+    },
+    {
+      "id": 654305354,
+      "name": "Getafe",
+      "home": {
+        "played": 7,
+        "points": 12,
+        "wins": 3,
+        "draws": 3,
+        "losses": 1,
+        "goalsFor": 8,
+        "goalsAgainst": 7
+      },
+      "away": {
+        "played": 6,
+        "points": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 6,
+        "goalsFor": 0,
+        "goalsAgainst": 14
       }
     },
     {
@@ -436,13 +436,13 @@
         "goalsAgainst": 12
       },
       "away": {
-        "played": 6,
+        "played": 7,
         "points": 2,
         "wins": 0,
         "draws": 2,
-        "losses": 4,
+        "losses": 5,
         "goalsFor": 3,
-        "goalsAgainst": 11
+        "goalsAgainst": 12
       }
     }
   ]

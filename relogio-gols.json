@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-22T18:19:19.226359+00:00",
+  "fetchedAt": "2026-11-23T00:03:55.228378+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -32,7 +32,7 @@
       "id": 3542330727,
       "name": "Atlético Madrid",
       "sourceId": "1068",
-      "completed": 12
+      "completed": 13
     },
     {
       "id": 3843095170,
@@ -89,6 +89,12 @@
       "completed": 13
     },
     {
+      "id": 2721363159,
+      "name": "Osasuna",
+      "sourceId": "97",
+      "completed": 13
+    },
+    {
       "id": 416150701,
       "name": "Celta Vigo",
       "sourceId": "85",
@@ -101,21 +107,15 @@
       "completed": 12
     },
     {
-      "id": 654305354,
-      "name": "Getafe",
-      "sourceId": "2922",
-      "completed": 12
-    },
-    {
-      "id": 2721363159,
-      "name": "Osasuna",
-      "sourceId": "97",
-      "completed": 12
-    },
-    {
       "id": 2259635026,
       "name": "Valencia",
       "sourceId": "94",
+      "completed": 13
+    },
+    {
+      "id": 654305354,
+      "name": "Getafe",
+      "sourceId": "2922",
       "completed": 13
     },
     {
@@ -134,7 +134,7 @@
       "id": 1801350210,
       "name": "Málaga",
       "sourceId": "99",
-      "completed": 12
+      "completed": 13
     }
   ],
   "matches": [
@@ -3462,8 +3462,52 @@
       ],
       "firstScorer": 2618643479,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882801",
+      "date": "2026-11-22T17:30Z",
+      "home": 2721363159,
+      "away": 1801350210,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2721363159,
+          "minute": "20",
+          "bin": 1
+        }
+      ],
+      "firstScorer": 2721363159,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882803",
+      "date": "2026-11-22T20:00Z",
+      "home": 654305354,
+      "away": 3542330727,
+      "hg": 0,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 3542330727,
+          "minute": "10",
+          "bin": 0
+        },
+        {
+          "team": 3542330727,
+          "minute": "30",
+          "bin": 1
+        },
+        {
+          "team": 3542330727,
+          "minute": "90+2",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 3542330727,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 126,
+  "completedMatches": 128,
   "excluded": []
 }

@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-22T18:19:19.226359+00:00",
+  "fetchedAt": "2026-11-23T00:03:55.228378+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -30,9 +30,9 @@
     {
       "id": 3542330727,
       "name": "Atlético Madrid",
-      "points": 28,
-      "played": 12,
-      "goalsFor": 23,
+      "points": 31,
+      "played": 13,
+      "goalsFor": 26,
       "goalsAgainst": 10,
       "position": 3,
       "sourceId": "1068"
@@ -128,13 +128,23 @@
       "sourceId": "90"
     },
     {
+      "id": 2721363159,
+      "name": "Osasuna",
+      "points": 15,
+      "played": 13,
+      "goalsFor": 13,
+      "goalsAgainst": 23,
+      "position": 13,
+      "sourceId": "97"
+    },
+    {
       "id": 416150701,
       "name": "Celta Vigo",
       "points": 13,
       "played": 13,
       "goalsFor": 11,
       "goalsAgainst": 12,
-      "position": 13,
+      "position": 14,
       "sourceId": "85"
     },
     {
@@ -144,28 +154,8 @@
       "played": 12,
       "goalsFor": 15,
       "goalsAgainst": 22,
-      "position": 14,
-      "sourceId": "101"
-    },
-    {
-      "id": 654305354,
-      "name": "Getafe",
-      "points": 12,
-      "played": 12,
-      "goalsFor": 8,
-      "goalsAgainst": 18,
       "position": 15,
-      "sourceId": "2922"
-    },
-    {
-      "id": 2721363159,
-      "name": "Osasuna",
-      "points": 12,
-      "played": 12,
-      "goalsFor": 12,
-      "goalsAgainst": 23,
-      "position": 16,
-      "sourceId": "97"
+      "sourceId": "101"
     },
     {
       "id": 2259635026,
@@ -174,8 +164,18 @@
       "played": 13,
       "goalsFor": 9,
       "goalsAgainst": 20,
-      "position": 17,
+      "position": 16,
       "sourceId": "94"
+    },
+    {
+      "id": 654305354,
+      "name": "Getafe",
+      "points": 12,
+      "played": 13,
+      "goalsFor": 8,
+      "goalsAgainst": 21,
+      "position": 17,
+      "sourceId": "2922"
     },
     {
       "id": 3587178228,
@@ -201,9 +201,9 @@
       "id": 1801350210,
       "name": "Málaga",
       "points": 5,
-      "played": 12,
+      "played": 13,
       "goalsFor": 9,
-      "goalsAgainst": 23,
+      "goalsAgainst": 24,
       "position": 20,
       "sourceId": "99"
     }
