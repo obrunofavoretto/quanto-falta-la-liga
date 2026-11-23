@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-23T07:21:35.763122+00:00",
+  "fetchedAt": "2026-11-23T19:57:04.103784+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -3164,7 +3164,7 @@
       "id": "3542330727-2259635026",
       "home": 3542330727,
       "away": 2259635026,
-      "date": 1797192000000,
+      "date": 1797166800000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
     },
@@ -3212,7 +3212,7 @@
       "id": "3843095170-2618643479",
       "home": 3843095170,
       "away": 2618643479,
-      "date": 1797192000000,
+      "date": 1797105600000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
     },
@@ -3380,7 +3380,7 @@
       "id": "3895707530-654305354",
       "home": 3895707530,
       "away": 654305354,
-      "date": 1797192000000,
+      "date": 1797183000000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
     },
@@ -3868,7 +3868,7 @@
       "id": "4076848127-3479518012",
       "home": 4076848127,
       "away": 3479518012,
-      "date": 1797192000000,
+      "date": 1797088500000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
     },
@@ -3956,7 +3956,7 @@
       "id": "3954215064-416150701",
       "home": 3954215064,
       "away": 416150701,
-      "date": 1797192000000,
+      "date": 1797278400000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
     },
@@ -4036,7 +4036,7 @@
       "id": "3626330792-3327815286",
       "home": 3626330792,
       "away": 3327815286,
-      "date": 1797192000000,
+      "date": 1797174900000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
     },
@@ -4612,7 +4612,7 @@
       "id": "3587178228-137796659",
       "home": 3587178228,
       "away": 137796659,
-      "date": 1797192000000,
+      "date": 1797080400000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
     },
@@ -4708,7 +4708,7 @@
       "id": "1083761366-1563710680",
       "home": 1083761366,
       "away": 1563710680,
-      "date": 1797192000000,
+      "date": 1797019200000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
     },
@@ -4804,7 +4804,7 @@
       "id": "1801350210-418278010",
       "home": 1801350210,
       "away": 418278010,
-      "date": 1797192000000,
+      "date": 1797096600000,
       "round": "Rodada a confirmar",
       "status": "scheduled"
     },
