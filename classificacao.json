@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-23T19:57:04.103784+00:00",
+  "fetchedAt": "2026-11-24T04:39:32.237102+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -148,13 +148,23 @@
       "sourceId": "85"
     },
     {
+      "id": 3587178228,
+      "name": "Levante",
+      "points": 12,
+      "played": 13,
+      "goalsFor": 17,
+      "goalsAgainst": 22,
+      "position": 15,
+      "sourceId": "1538"
+    },
+    {
       "id": 3479518012,
       "name": "Rayo Vallecano",
       "points": 12,
       "played": 12,
       "goalsFor": 15,
       "goalsAgainst": 22,
-      "position": 15,
+      "position": 16,
       "sourceId": "101"
     },
     {
@@ -164,7 +174,7 @@
       "played": 13,
       "goalsFor": 9,
       "goalsAgainst": 20,
-      "position": 16,
+      "position": 17,
       "sourceId": "94"
     },
     {
@@ -174,26 +184,16 @@
       "played": 13,
       "goalsFor": 8,
       "goalsAgainst": 21,
-      "position": 17,
-      "sourceId": "2922"
-    },
-    {
-      "id": 3587178228,
-      "name": "Levante",
-      "points": 11,
-      "played": 12,
-      "goalsFor": 16,
-      "goalsAgainst": 21,
       "position": 18,
-      "sourceId": "1538"
+      "sourceId": "2922"
     },
     {
       "id": 1083761366,
       "name": "Elche",
-      "points": 10,
-      "played": 12,
-      "goalsFor": 14,
-      "goalsAgainst": 20,
+      "points": 11,
+      "played": 13,
+      "goalsFor": 15,
+      "goalsAgainst": 21,
       "position": 19,
       "sourceId": "3751"
     },

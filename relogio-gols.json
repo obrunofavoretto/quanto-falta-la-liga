@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-23T19:57:04.103784+00:00",
+  "fetchedAt": "2026-11-24T04:39:32.237102+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -101,6 +101,12 @@
       "completed": 13
     },
     {
+      "id": 3587178228,
+      "name": "Levante",
+      "sourceId": "1538",
+      "completed": 13
+    },
+    {
       "id": 3479518012,
       "name": "Rayo Vallecano",
       "sourceId": "101",
@@ -119,16 +125,10 @@
       "completed": 13
     },
     {
-      "id": 3587178228,
-      "name": "Levante",
-      "sourceId": "1538",
-      "completed": 12
-    },
-    {
       "id": 1083761366,
       "name": "Elche",
       "sourceId": "3751",
-      "completed": 12
+      "completed": 13
     },
     {
       "id": 1801350210,
@@ -3506,8 +3506,30 @@
       ],
       "firstScorer": 3542330727,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882802",
+      "date": "2026-11-23T20:00Z",
+      "home": 3587178228,
+      "away": 1083761366,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 1083761366,
+          "minute": "62",
+          "bin": 5
+        },
+        {
+          "team": 3587178228,
+          "minute": "88",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 1083761366,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 128,
+  "completedMatches": 129,
   "excluded": []
 }
