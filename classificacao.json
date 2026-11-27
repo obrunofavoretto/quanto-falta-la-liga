@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-27T13:35:06.613467+00:00",
+  "fetchedAt": "2026-11-27T22:32:50.072653+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -58,24 +58,24 @@
       "sourceId": "89"
     },
     {
+      "id": 2618643479,
+      "name": "Racing Santander",
+      "points": 20,
+      "played": 14,
+      "goalsFor": 23,
+      "goalsAgainst": 33,
+      "position": 6,
+      "sourceId": "87"
+    },
+    {
       "id": 1563710680,
       "name": "Sevilla",
       "points": 19,
       "played": 13,
       "goalsFor": 18,
       "goalsAgainst": 20,
-      "position": 6,
-      "sourceId": "243"
-    },
-    {
-      "id": 2618643479,
-      "name": "Racing Santander",
-      "points": 17,
-      "played": 13,
-      "goalsFor": 20,
-      "goalsAgainst": 32,
       "position": 7,
-      "sourceId": "87"
+      "sourceId": "243"
     },
     {
       "id": 3327815286,
@@ -151,9 +151,9 @@
       "id": 3587178228,
       "name": "Levante",
       "points": 12,
-      "played": 13,
-      "goalsFor": 17,
-      "goalsAgainst": 22,
+      "played": 14,
+      "goalsFor": 18,
+      "goalsAgainst": 25,
       "position": 15,
       "sourceId": "1538"
     },

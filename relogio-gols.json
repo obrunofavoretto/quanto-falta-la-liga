@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-27T13:35:06.613467+00:00",
+  "fetchedAt": "2026-11-27T22:32:50.072653+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/esp.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -47,15 +47,15 @@
       "completed": 13
     },
     {
-      "id": 1563710680,
-      "name": "Sevilla",
-      "sourceId": "243",
-      "completed": 13
-    },
-    {
       "id": 2618643479,
       "name": "Racing Santander",
       "sourceId": "87",
+      "completed": 14
+    },
+    {
+      "id": 1563710680,
+      "name": "Sevilla",
+      "sourceId": "243",
       "completed": 13
     },
     {
@@ -104,7 +104,7 @@
       "id": 3587178228,
       "name": "Levante",
       "sourceId": "1538",
-      "completed": 13
+      "completed": 14
     },
     {
       "id": 3479518012,
@@ -3528,8 +3528,40 @@
       ],
       "firstScorer": 1083761366,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401882791",
+      "date": "2026-11-27T20:00Z",
+      "home": 3587178228,
+      "away": 2618643479,
+      "hg": 1,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 3587178228,
+          "minute": "42",
+          "bin": 2
+        },
+        {
+          "team": 2618643479,
+          "minute": "66",
+          "bin": 5
+        },
+        {
+          "team": 2618643479,
+          "minute": "81",
+          "bin": 6
+        },
+        {
+          "team": 2618643479,
+          "minute": "90+5",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 3587178228,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 129,
+  "completedMatches": 130,
   "excluded": []
 }

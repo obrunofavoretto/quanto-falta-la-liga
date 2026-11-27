@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-27T13:35:06.613467+00:00",
+  "fetchedAt": "2026-11-27T22:32:50.072653+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -116,6 +116,28 @@
       }
     },
     {
+      "id": 2618643479,
+      "name": "Racing Santander",
+      "home": {
+        "played": 7,
+        "points": 14,
+        "wins": 4,
+        "draws": 2,
+        "losses": 1,
+        "goalsFor": 14,
+        "goalsAgainst": 13
+      },
+      "away": {
+        "played": 7,
+        "points": 6,
+        "wins": 2,
+        "draws": 0,
+        "losses": 5,
+        "goalsFor": 9,
+        "goalsAgainst": 20
+      }
+    },
+    {
       "id": 1563710680,
       "name": "Sevilla",
       "home": {
@@ -135,28 +157,6 @@
         "losses": 2,
         "goalsFor": 10,
         "goalsAgainst": 12
-      }
-    },
-    {
-      "id": 2618643479,
-      "name": "Racing Santander",
-      "home": {
-        "played": 7,
-        "points": 14,
-        "wins": 4,
-        "draws": 2,
-        "losses": 1,
-        "goalsFor": 14,
-        "goalsAgainst": 13
-      },
-      "away": {
-        "played": 6,
-        "points": 3,
-        "wins": 1,
-        "draws": 0,
-        "losses": 5,
-        "goalsFor": 6,
-        "goalsAgainst": 19
       }
     },
     {
@@ -317,13 +317,13 @@
       "id": 3587178228,
       "name": "Levante",
       "home": {
-        "played": 6,
+        "played": 7,
         "points": 8,
         "wins": 2,
         "draws": 2,
-        "losses": 2,
-        "goalsFor": 14,
-        "goalsAgainst": 13
+        "losses": 3,
+        "goalsFor": 15,
+        "goalsAgainst": 16
       },
       "away": {
         "played": 7,
