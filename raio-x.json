@@ -1,7 +1,7 @@
 {
   "league": "esp-la-liga",
   "season": 2026,
-  "fetchedAt": "2026-11-28T04:36:33.542740+00:00",
+  "fetchedAt": "2026-11-28T13:57:39.402227+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -3276,9 +3276,9 @@
       "id": "3843095170-3479518012",
       "home": 3843095170,
       "away": 3479518012,
-      "date": 1795870800000,
+      "date": null,
       "round": "Rodada a confirmar",
-      "status": "scheduled"
+      "status": "pending"
     },
     {
       "id": "3843095170-2259635026",
